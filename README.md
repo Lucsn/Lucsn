@@ -1,8 +1,8 @@
 #  Lucas Nascimento
 <div align="center">
   <a href="https://github.com/lucsn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucsn&show_icons=true&theme=demolsn&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsn&layout=compact&langs_count=7&theme=demolsn&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucsn&show_icons=true&title_color=262B4F&text_color=262B4F&icon_color=FACA22&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsn&layout=compact&langs_count=7&title_color=262B4F&text_color=262B4F&icon_color=FACA22&hide_border=true"/>
    </a>
 </div>
 
