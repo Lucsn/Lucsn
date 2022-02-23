@@ -1,8 +1,8 @@
-<h2 align="center">Olá, sou Lucas Nascimento desenvolvedor Frontend</h2>
+<h2 align="center">Olá, sou Lucas Nascimento desenvolvedor Frontend Jr</h2>
 
 <p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="lucsn" width="400" /> </p>
 
-<h3 align="center">- 📚 Estou estudando javascript, aprimorando minhas habilidades em html e css </h3>
+<h3 align="center">- 📚 Estou estudando javascript e aprimorando minhas habilidades em html e css </h3>
 
 <p align="center"><img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/programmingLogo.png" alt="lucsn"/>&nbsp;<span>Apaixonado por Tecnnologia</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/teamPlayerLogo.png" alt="lucsn"/>&nbsp;<span>Trabalho em equipe</span>
@@ -29,6 +29,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>      
   <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"       src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">  -->
 </p>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lucsn&show_icons=true&title_color=262B4F&text_color=262B4F&icon_color=FACA22&include_all_commits=true&count_private=true&hide_border=true" alt="lucsn" /></p> </br>
 
