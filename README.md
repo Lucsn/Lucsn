@@ -4,9 +4,8 @@
 
 <h3 align="center">- 📚 Estou estudando javascript, aprimorando minhas habilidades em html e css </h3>
 
-<p align="center"><a href="#" style="text-decoration: none;"><img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/programmingLogo.png" alt="lucsn"/>&nbsp;<span>Apaixonado por Tecnnologia</span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" style="text-decoration: none;"><img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/teamPlayerLogo.png" alt="lucsn"/>&nbsp;<span>Trabalho em equipe</span></a>
-
+<p align="center"><img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/programmingLogo.png" alt="lucsn"/>&nbsp;<span>Apaixonado por Tecnnologia</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/teamPlayerLogo.png" alt="lucsn"/>&nbsp;<span>Trabalho em equipe</span>
 </p>
 
 
