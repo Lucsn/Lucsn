@@ -21,7 +21,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <!--<img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+ <!--<img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,8 +33,8 @@
 </p>
 <br>
 
-<p align="center" ><img align="left" src="https://github-readme-stats.vercel.app/api?username=lucsn&show_icons=true&title_color=262B4F&text_color=262B4F&icon_color=FACA22&include_all_commits=true&count_private=true&hide_border=true" alt="lucsn" />
-&nbsp; &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsn&layout=compact&langs_count=7&title_color=262B4F&text_color=262B4F&icon_color=FACA22&hide_border=true" alt="lucsn" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=lucsn&show_icons=true&title_color=262B4F&text_color=262B4F&icon_color=FACA22&include_all_commits=true&count_private=true&hide_border=true" alt="lucsn" />
+&nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsn&layout=compact&langs_count=7&title_color=262B4F&text_color=262B4F&icon_color=FACA22&hide_border=true" alt="lucsn" /></p>
 
 <!--- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsn&" alt="lucsn" /></p> -->
 
