@@ -7,13 +7,6 @@
 <p align="center"><img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/programmingLogo.png" alt="lucsn"/>&nbsp;<span>Apaixonado por Tecnologia</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/teamPlayerLogo.png" alt="lucsn"/>&nbsp;<span>Trabalho em equipe</span>
 </p>
-
-
-<h3 align="center">Contado:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/lucsn" target="blank"><img align="center" src="https://github.com/lucsn/Lucsn/blob/main/image/linkedin.svg" alt="lucsn" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/lucsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucsn" height="30" width="40" /></a> -->
-</p>
 <br>
 
 <h3 align="center">Linguagens:</h3>
@@ -23,15 +16,20 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/lucsn/Lucsn/blob/main/image/git.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://github.com/lucsn" target="_blank" rel="noreferrer"> <img src="https://github.com/lucsn/Lucsn/blob/main/image/github.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/lucsn/Lucsn/blob/main/image/vscode.svg" alt="vscode" width="40" height="40"/> </a> 
+
+ <h3 align="center">Contado:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/lucsn" target="blank"><img align="center" src="https://github.com/lucsn/Lucsn/blob/main/image/linkedin.svg" alt="lucsn" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/lucsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucsn" height="30" width="40" /></a> -->
+</p>
+<br>
  
- <!--<img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>      
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"       src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">  -->
+ 
+ <!--
+onde conseguir icon, só mudar o nome da pasta e do arquivo
+https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg  
+
+<img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"       src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">  -->
 </p>
 <br>
 
