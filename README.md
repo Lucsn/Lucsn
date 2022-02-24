@@ -33,7 +33,7 @@
 </p>
 <br>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=lucsn&show_icons=true&title_color=262B4F&text_color=262B4F&icon_color=FACA22&include_all_commits=true&count_private=true&hide_border=true" alt="lucsn" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=lucsn&show_icons=true&title_color=262B4F&text_color=262B4F&icon_color=FACA22&include_all_commits=true&count_private=true&hide_border=true" alt="lucsn" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsn&layout=compact&langs_count=7&title_color=262B4F&text_color=262B4F&icon_color=FACA22&hide_border=true" alt="lucsn" /></p>
 
 <!--- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsn&" alt="lucsn" /></p> -->
