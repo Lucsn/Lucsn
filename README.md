@@ -4,7 +4,7 @@
 
 <h3 align="center">- 📚 Estou estudando javascript e evoluindo minhas habilidades em html e css </h3>
 
-<p align="center"><img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/programmingLogo.png" alt="lucsn"/>&nbsp;<span>Apaixonado por Tecnnologia</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"><img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/programmingLogo.png" alt="lucsn"/>&nbsp;<span>Apaixonado por Tecnologia</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/binitrajshah7/binitrajshah7/blob/main/Resource/teamPlayerLogo.png" alt="lucsn"/>&nbsp;<span>Trabalho em equipe</span>
 </p>
 
