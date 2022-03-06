@@ -33,9 +33,9 @@ https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angula
 </p>
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=lucsn&show_icons=true&title_color=262B4F&text_color=262B4F&icon_color=FACA22&include_all_commits=true&count_private=true&hide_border=true" alt="lucsn" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsn&layout=compact&langs_count=7&title_color=262B4F&text_color=262B4F&icon_color=FACA22&hide_border=true" alt="lucsn" width="400" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&title_color=262B4F&text_color=262B4F&icon_color=FACA22&include_all_commits=true&count_private=true&hide_border=true" alt="lucsn" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&langs_count=7&title_color=262B4F&text_color=262B4F&icon_color=FACA22&hide_border=true" alt="lucsn" width="400" /></p>
 
-<!--- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luc&" alt="lucsn" /></p> -->
+<!--- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsn&" alt="lucsn" /></p> -->
 
 ![Snake animation](https://github.com/lucsn/Lucsn/blob/output/github-contribution-grid-snake.svg)
