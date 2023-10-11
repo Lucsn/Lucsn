@@ -9,7 +9,7 @@
 </p>
 <br>
 
-<h3 align="center">Linguagens:</h3>
+<h3 align="center">Linguagens & Ferramentas:</h3>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/lucsn/Lucsn/blob/main/image/html5.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/lucsn/Lucsn/blob/main/image/css3.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/lucsn/Lucsn/blob/main/image/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
